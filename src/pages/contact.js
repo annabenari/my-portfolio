@@ -12,9 +12,9 @@ function Contact() {
         <li>Address: 123 Main St, Anytown USA</li>
         <li>
           {" "}
-          <Link className="btn btn-info" to="../cv.pdf" target="_blank">
+          <a className="btn btn-info" href="../cv.pdf" target="_blank">
             CV
-          </Link>
+          </a>
         </li>
         <li>
           <Link className="btn btn-warning" to="https://github.com/annabenari">

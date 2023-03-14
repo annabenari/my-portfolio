@@ -13,7 +13,7 @@ const Projects = () => {
       <a href="https://github.com/annabenari/french-tutoring-website">
         Link to Repo
       </a>
-      <img src={ProjectImage}></img>
+      <img src={ProjectImage} alt="french project"></img>
     </div>
   );
 };

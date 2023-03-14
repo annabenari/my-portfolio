@@ -6,7 +6,7 @@ function Home() {
     <div>
       <h1>Home</h1>
       <p>Anna Benari</p>
-      <img src={profilePic}></img>
+      <img src={profilePic} alt="me"></img>
       <p>Work smarter not harder</p>
       <p>This is my portfolio site</p>
     </div>

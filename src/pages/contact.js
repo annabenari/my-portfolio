@@ -13,6 +13,7 @@ function Contact() {
         <li>
           {" "}
           <a
+            rel="noreferrer"
             className="btn btn-info"
             href="https://github.com/annabenari/my-portfolio/blob/main/src/CV%20Anna%20Benari%20G.pdf"
             target="_blank"

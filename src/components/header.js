@@ -33,7 +33,7 @@ function Header() {
                 </NavLink>
               </li>
               <li class="nav-item">
-                <NavLink className="btn btn-danger" to="project">
+                <NavLink className="btn btn-danger" to="projects">
                   Project Gallery
                 </NavLink>
               </li>
